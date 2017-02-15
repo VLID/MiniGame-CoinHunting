@@ -11,5 +11,5 @@ A Mini Game for Chinese Lunar New Year. Just for fun!
 * Earn 30pts to win
 
 (Game Demo Screenshot)
-![Screen shot](pic1.png)
 
+![Screen shot](pic1.png)
